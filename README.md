@@ -1,5 +1,5 @@
 # LocMap
-Software to read a file with location information (longitude latitude) and calculates the  distance between 2 locations. Can also add to the database (locations.txt). Program runs in Windows CMD
+Program to read a file with location information (longitude latitude) and calculates the  distance between 2 locations (linear distance). Can also add to the database (locations.txt). Program runs in Windows CMD
 
 Requires JDK 20+ to run!
 
